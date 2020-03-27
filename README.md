@@ -1,1 +1,1 @@
-# JS22020_Spring_Assignments
+# JS2_SPRING_2020
